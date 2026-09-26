@@ -1,6 +1,7 @@
 # SSRF Labs - PortSwigger Web Security Academy
 
-Write-ups from working through SSRF (Server-Side Request Forgery) labs on PortSwigger, as part of my MSc Cybersecurity coursework.
+Write-ups from working through SSRF (Server-Side Request Forgery) labs on PortSwigger, as part of my Cybersecurity learning
+
 
 ## Labs
 
